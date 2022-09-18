@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - 👯 Estou colaborando ativamente no GitHub desde julho de 2022 com novos respositórios
 - 🤔 Normalmente procuro ajuda com React.js, React Native ou implementação de Serverless Frameworks
 - 💬 Você pode me perguntar sobre o desenvolvimento do back end com Node.js e Workers da Cloudflare
-- 📫 Você pode entrar em contato comigo pelo meu perfil no <a href="https://www.linkedin.com/in/giselle-hoekveld-1b8081142/" target="_blank">Linkedin</a> ou se preferir pelo <a href="https://www.instagram.com/gihoekveld/" target="_blank">Instagram</a> 
 <br/>
 
 ## Ferramentas e Tecnologias
@@ -42,6 +41,13 @@ Here are some ideas to get you started:
   <a href="https://github.com/gihoekveld">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gihoekveld&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gihoekveld&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+## Contatos
+<div>
+  <a href="https://www.linkedin.com/in/giselle-hoekveld-1b8081142" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:gisellehoekveld@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/gihoekveld" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
           
           
