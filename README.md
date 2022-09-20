@@ -17,7 +17,7 @@
   - Trabalho full time nesse modelo desde julho de 2021
   - Estou contribuindo no desenvolvimento da Rede Social de Aventuras Outdoor: AventureBox, versão <a href="https://aventurebox.com/" target="_blank">web</a> e <a href="https://apps.apple.com/br/app/aventurebox/id1479232795" target="_blank">mobile</a>
   - Estou contribuindo em um projeto privado também. Nele estamos implementando as atuais e melhores tecnologias do mercado. Eu estou desenvolvendo o back end com Node.js, Jest.js, Fauna Database, Workers da Cloudflare e o Cloudinary para gerenciar o armazenamento das imagens
-- :space_invader: Eu sou uma Testadora QA - _Quality Assurance Tester_ - na Ubertesters
+- :space_invader: Eu sou uma Testadora QA - _Quality Assurance Tester_ - na <a href="https://ubertesters.com/">Ubertesters</a>
 - 🌱 Atualmente estou focando em me especializar em back end com Node.js. Estou aprendendo pela trilha Ignite da <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>
 - 👯 Estou colaborando ativamente no GitHub desde julho de 2022 com novos respositórios
 - 🤔 Normalmente procuro ajuda com React.js, React Native ou implementação de Serverless Frameworks
