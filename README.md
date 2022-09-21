@@ -1,4 +1,4 @@
-# Hello Dev! Eu sou a Giselle Hoekveld, desenvolvedora web junior    
+# Hello dev! I am Giselle Hoekveld, a web developer   
 
 <div align="center">
   <a href="https://github.com/gihoekveld">
@@ -13,21 +13,20 @@
   
 ## 
 
-- 🔭 Estou trabalhando como pessoa jurídica (PJ):
-  - Trabalho full time nesse modelo desde julho de 2021
-  - Estou contribuindo no desenvolvimento da Rede Social de Aventuras Outdoor: AventureBox, versão <a href="https://aventurebox.com/" target="_blank">web</a> e <a href="https://apps.apple.com/br/app/aventurebox/id1479232795" target="_blank">mobile</a>
-  - Estou contribuindo em um projeto privado também. Nele estamos implementando as atuais e melhores tecnologias do mercado. Eu estou desenvolvendo o back end com Node.js, Jest.js, Fauna Database, Workers da Cloudflare e o Cloudinary para gerenciar o armazenamento das imagens
-- :space_invader: Eu sou uma Testadora QA - _Quality Assurance Tester_ - na <a href="https://ubertesters.com/">Ubertesters</a>
-- 🌱 Atualmente estou focando em me especializar em back end com Node.js. Estou aprendendo pela trilha Ignite da <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>
-- 👯 Estou colaborando ativamente no GitHub desde julho de 2022 com novos respositórios
-- 🤔 Normalmente procuro ajuda com React.js, React Native ou implementação de Serverless Frameworks
-- 💬 Você pode me perguntar sobre o desenvolvimento do back end com Node.js e Workers da Cloudflare    
+- 🔭 I am working as a legal person:
+  - I work full time on this model since July 2021
+  - I am contributing to the development of the Outdoor Adventure Social Network: AventureBox, <a href="https://aventurebox.com/" target="_blank">web</a> and <a href="https://apps.apple.com/br/app/aventurebox/id1479232795" target="_blank">mobile</a> versions
+  - I am contributing to a private project too. In it we are implementing the current and best technologies. I am developing the backend with Node.js, Jest.js, Fauna Database, Workers of Cloudflare and the Cloudinary to manage image storage
+- :space_invader: I am QA Tester - _Quality Assurance Tester_ - on <a href="https://ubertesters.com/">Ubertesters</a>
+- 🌱 I am currently focusing on specializing in backend with Node.js. I am learning through the Ignite trail on <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>
+- 👯 I have been actively collaborating on GitHub since July 2022 with new repositories
+- 🤔 I usually look for help with React.js, React Native or Serverless Frameworks implementation   
 
   ![Snake animation](https://github.com/gihoekveld/gihoekveld/blob/output/github-contribution-grid-snake.svg)
 
 <br/>
 <div align="center">
-  <h3>Contato:</h3>
+  <h3>Contact:</h3>
   <br/>
   <a href="https://www.linkedin.com/in/giselle-hoekveld-1b8081142" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:gisellehoekveld@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
