@@ -17,7 +17,7 @@
   - I am contributing to the development of the Outdoor Adventure Social Network: AventureBox, <a href="https://aventurebox.com/" target="_blank">web</a> and <a href="https://apps.apple.com/br/app/aventurebox/id1479232795" target="_blank">mobile</a> versions
   - I am contributing to a private project too. In it we are implementing the current and best technologies. I am developing the backend with JavaScript.js, Jest.js and Serverless Frameworks.
 - :space_invader: I am QA Tester - _Quality Assurance Tester_ - on <a href="https://ubertesters.com/">Ubertesters</a>
-- 🌱 I am currently focusing on specializing in backend with Node.js. I am learning through the Ignite trail on <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>
+- 🌱 I am currently focusing on specializing in backend with Node.js. I am learning through the Ignite trail on <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>. I am also learning React.js, React Testing Library and Cypress.
 - 👯 I have been actively collaborating on GitHub since July 2022 with new repositories
 - 🤔 I usually look for help with React.js, React Native or Serverless Frameworks implementation   
 
