@@ -1,4 +1,4 @@
-# Hello dev! I am Giselle Hoekveld, a web developer   
+<h1 align="center">Hello dev! I am Giselle Hoekveld, a web developer</h1>
 
 <div align="center">
   <a href="https://github.com/gihoekveld">
@@ -23,8 +23,6 @@
 - 🌱 I am currently focusing on specializing in backend with Node.js. I am learning through the Ignite trail on <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>. I am also learning React.js, React Testing Library and Cypress.
 - 👯 I have been actively collaborating on GitHub since July 2022 with new repositories
 - 🤔 I usually look for help with React.js, React Native or Serverless Frameworks implementation   
-
-  ![Snake animation](https://github.com/gihoekveld/gihoekveld/blob/output/github-contribution-grid-snake.svg)
 
 <br/>
 <div align="center">
