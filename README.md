@@ -17,12 +17,9 @@
 
 - 🔭 I am working as a legal person:
   - I work full time on this model since July 2021
-  - I am contributing to the development of the Outdoor Adventure Social Network: AventureBox, <a href="https://aventurebox.com/" target="_blank">web</a> and <a href="https://apps.apple.com/br/app/aventurebox/id1479232795" target="_blank">mobile</a> versions
-  - I am contributing to a private project too. In it we are implementing the current and best technologies. I am developing the backend with JavaScript.js, Jest.js and Serverless Frameworks.
+  - I am contributing to the development of the Outdoor Adventure Social Network: AventureBox, <a href="https://aventurebox.com/" target="_blank">web</a> and <a href="https://apps.apple.com/br/app/aventurebox/id1479232795" target="_blank">mobile</a> versions.
 - :space_invader: I am QA Tester - _Quality Assurance Tester_ - on <a href="https://ubertesters.com/">Ubertesters</a>
-- 🌱 I am currently focusing on specializing in backend with Node.js. I am learning through the Ignite trail on <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>. I am also learning React.js, React Testing Library and Cypress.
-- 👯 I have been actively collaborating on GitHub since July 2022 with new repositories
-- 🤔 I usually look for help with React.js, React Native or Serverless Frameworks implementation   
+- 🌱 I am also learning React.js and Node.js.
 
 <br/>
 <div align="center">
@@ -30,6 +27,5 @@
   <br/>
   <a href="https://www.linkedin.com/in/giselle-hoekveld-1b8081142" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:gisellehoekveld.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/gihoekveld" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div> 
 
