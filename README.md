@@ -1,4 +1,4 @@
-<h1 align="center">Hello dev! I am Giselle Hoekveld, a web developer</h1>
+<h1 align="center">Hello dev! I am Giselle Hoekveld, a full stack developer jr</h1>
 
 <div align="center">
   <div>
