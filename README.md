@@ -1,16 +1,4 @@
 <h1 align="center">Hello dev! I am Giselle Hoekveld, a full stack developer jr</h1>
-
-<!-- <div align="center">
-  <div>
-    <a href="https://github.com/gihoekveld">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gihoekveld&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-    </a>
-    <a href="https://github.com/gihoekveld">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gihoekveld&layout=compact&langs_count=7&theme=material-palenight"/>
-    </a>
-  </div>
-</div> -->
-<br/>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40" />
 </div>
