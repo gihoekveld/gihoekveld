@@ -10,7 +10,7 @@
   - I am contributing to the development of the Outdoor Adventure Social Network: AventureBox, <a href="https://aventurebox.com/" target="_blank">web</a> and <a href="https://apps.apple.com/br/app/aventurebox/id1479232795" target="_blank">mobile</a> versions.
 - :space_invader: I am QA Tester - _Quality Assurance Tester_ - on <a href="https://ubertesters.com/">Ubertesters</a>
 - 🌱 I am constantly evolving my knowledge in React.js and Node.js.
-  - I am learning to program in Java at the university. 
+  - I am learning Next.js. 
 
 <br/>
 <div align="center">
