@@ -8,7 +8,7 @@
 - 🔭 I am working as a legal person:
   - I work full time on this model since July 2021
   - I am contributing to the development of the Outdoor Adventure Social Network: AventureBox, <a href="https://aventurebox.com/" target="_blank">web</a> and <a href="https://apps.apple.com/br/app/aventurebox/id1479232795" target="_blank">mobile</a> versions.
-  - I am contributing to the development of the Sales Platform - Excofy, <a href="https://excofy.com/" target="_blank">web</a> version.
+  - I am contributing to the development of the Experiece Commerce Platform: Excofy, <a href="https://excofy.com/" target="_blank">web</a> version.
 - :space_invader: I am QA Tester - _Quality Assurance Tester_ - on <a href="https://ubertesters.com/">Ubertesters</a>
 - 🌱 I am constantly evolving my knowledge in React.js and Node.js.
   - I am learning Meta Pixel. 
