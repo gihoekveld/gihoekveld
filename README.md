@@ -20,8 +20,8 @@
 </h2>
 
 - Working full-time as a legal entity (PJ) since July 2021.
-- Previously contributed to the development of **AventureBox**: <a href="https://aventurebox.com/" target="_blank">web</a> and <a href="https://apps.apple.com/br/app/aventurebox/id1479232795" target="_blank">mobile</a> applications.
-- Currently contributing to the development of **Excofy**: <a href="https://excofy.com/" target="_blank">web</a> and <a href="https://play.google.com/store/apps/developer?id=Excofy+Tecnologia&hl=pt_PT" target="_blank">mobile</a> applications.
+- Previously contributed to the maintenance and enhancement of **AventureBox**: <a href="https://aventurebox.com/" target="_blank">web</a> and <a href="https://apps.apple.com/br/app/aventurebox/id1479232795" target="_blank">mobile</a> applications.
+- Currently contributing to the development of **Excofy** from its early stages: <a href="https://excofy.com/" target="_blank">web</a> and <a href="https://play.google.com/store/apps/developer?id=Excofy+Tecnologia&hl=pt_PT" target="_blank">mobile</a> applications.
 
 ## 👾 Previous Experience
 
