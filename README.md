@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋 I'm Giselle Hoekveld</h1>
+<h1 align="center">
+  Hi 👋 I'm Giselle Hoekveld
+</h1>
+
 <h3 align="center">Web Developer | React • Node.js • TypeScript</h3>
 
 <div align="center">
@@ -14,7 +17,9 @@
 
 ---
 
-## 💼 Professional Experience (PJ)
+<h2>
+  💼 Professional Experience (PJ)
+</h2>
 
 - Working full-time as a legal entity (PJ) since July 2021.
 - Previously contributed to the development of **AventureBox**: <a href="https://aventurebox.com/" target="_blank">web</a> and <a href="https://apps.apple.com/br/app/aventurebox/id1479232795" target="_blank">mobile</a> applications.
@@ -38,12 +43,3 @@
 ## 🌱 Currently Learning
 
 - Improving my skills in **React.js** and **Node.js**.
-
-<br/>
-
-<div align="center">
-  <h3>📫 Contact</h3>
-  <a href="https://www.linkedin.com/in/giselle-hoekveld-1b8081142" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
