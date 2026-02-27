@@ -32,7 +32,3 @@
 
 - Contributing to the development of the internal web dashboard for **São José Parish**.  
   The public institutional website is planned for a future phase.
-
-## 🌱 Currently Learning
-
-- Improving my skills in **React.js** and **Node.js**.
