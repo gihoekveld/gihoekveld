@@ -17,12 +17,8 @@
 ## 💼 Professional Experience (PJ)
 
 - Working full-time as a legal entity (PJ) since July 2021.
-- Previously contributed to the development of **AventureBox**  
-  → <a href="https://aventurebox.com/" target="_blank">Web</a>  
-  → <a href="https://apps.apple.com/br/app/aventurebox/id1479232795" target="_blank">Mobile</a>
-- Currently contributing to the development of **Excofy – Experience Commerce Platform**  
-  → <a href="https://excofy.com/" target="_blank">Web</a>  
-  → <a href="https://play.google.com/store/apps/developer?id=Excofy+Tecnologia&hl=pt_PT" target="_blank">Mobile</a>
+- Previously contributed to the development of **AventureBox**: <a href="https://aventurebox.com/" target="_blank">web</a> and <a href="https://apps.apple.com/br/app/aventurebox/id1479232795" target="_blank">mobile</a> applications.
+- Currently contributing to the development of **Excofy – Experience Commerce Platform**: <a href="https://excofy.com/" target="_blank">web</a> and <a href="https://play.google.com/store/apps/developer?id=Excofy+Tecnologia&hl=pt_PT" target="_blank">mobile</a> applications.
 
 ---
 
