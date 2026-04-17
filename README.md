@@ -1,28 +1,28 @@
 <h1>
-  Hi 👋 I'm Giselle Hoekveld
+  Oi 👋 eu sou a Giselle
 </h1>
 
 <h2>
-  💼 Professional Experience (PJ)
+  💼 Experiência Profissional (PJ)
 </h2>
 
 <p>
-  🔗 Connect with me on 
+  🔗 Conecte-se comigo no 
   <a href="https://www.linkedin.com/in/giselle-hoekveld-1b8081142/" target="_blank">
     LinkedIn
   </a>
 </p>
 
-- Working full-time as a legal entity (PJ) since July 2021.
-- Previously contributed to the maintenance and enhancement of **AventureBox**: <a href="https://aventurebox.com/" target="_blank">web</a> and <a href="https://apps.apple.com/br/app/aventurebox/id1479232795" target="_blank">mobile</a> applications.
-- Currently contributing to the development of **Excofy** from its early stages: <a href="https://excofy.com/" target="_blank">web</a> and <a href="https://play.google.com/store/apps/developer?id=Excofy+Tecnologia&hl=pt_PT" target="_blank">mobile</a> applications.
+- Trabalhando em tempo integral como Pessoa Jurídica (PJ) desde julho de 2021.
+- Anteriormente contribuí para a manutenção e evolução das aplicações **AventureBox**: <a href="https://aventurebox.com/" target="_blank">web</a> e <a href="https://apps.apple.com/br/app/aventurebox/id1479232795" target="_blank">mobile</a>.
+- Atualmente contribuindo para o desenvolvimento da **Excofy** desde suas fases iniciais: <a href="https://excofy.com/" target="_blank">web</a> e <a href="https://play.google.com/store/apps/developer?id=Excofy+Tecnologia&hl=pt_PT" target="_blank">mobile</a>.
 
-## 👾 Previous Experience
+## 👾 Experiência Anterior
 
-- Worked as a Freelance QA Tester (_Quality Assurance Tester_) at <a href="https://ubertesters.com/">Ubertesters</a>.<br>
-  Contributing to crowdtesting programs on an hourly basis.
+- Trabalhei como QA Tester Freelancer (_Quality Assurance Tester_) na <a href="https://ubertesters.com/">Ubertesters</a>.<br>
+  Contribuindo em programas de crowdtesting com base em horas.
 
-## 🤝 Community Project
+## 🤝 Projeto Comunitário
 
-- Contributing to the development of the internal web dashboard for **São José Parish**.  
-  The public institutional website is planned for a future phase.
+- Contribuindo para o desenvolvimento do painel interno web da **Paróquia São José**.  
+  O site institucional público está planejado para uma fase futura.
