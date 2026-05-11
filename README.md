@@ -2,8 +2,15 @@
   Oi 👋 eu sou a Giselle
 </h1>
 
+<p>
+  Desenvolvedora Full-Stack | 🎯 
+  <a href="https://gisellehoekveld.tech" target="_blank">
+    Meu Portfólio
+  </a>
+</p>
+
 <h2>
-  💼 Experiência Profissional (PJ)
+  💼 Experiência Profissional
 </h2>
 
 <p>
@@ -13,16 +20,20 @@
   </a>
 </p>
 
-- Trabalhando em tempo integral como Pessoa Jurídica (PJ) desde julho de 2021.
-- Anteriormente contribuí para a manutenção e evolução das aplicações **AventureBox**: <a href="https://aventurebox.com/" target="_blank">web</a> e <a href="https://apps.apple.com/br/app/aventurebox/id1479232795" target="_blank">mobile</a>.
-- Atualmente contribuindo para o desenvolvimento da **Excofy** desde suas fases iniciais: <a href="https://excofy.com/" target="_blank">web</a> e <a href="https://play.google.com/store/apps/developer?id=Excofy+Tecnologia&hl=pt_PT" target="_blank">mobile</a>.
+- Desenvolvendo como PJ desde julho de 2021.
+- **Excofy** (2022-atual): Plataforma SaaS com dashboard de vendas, checkout, app mobile, módulos de assinaturas e afiliados.
+- **AventureBox** (2021-2023): Rede social para aventureiros com feed interativo, mapa e notificações push.
+
+## 🎓 Projetos Acadêmicos (IFSP)
+
+- **Paróquia São José**: Site institucional e painel administrativo
+- **Zambô**: Plataforma da ONG dedicada ao movimento negro e cultura afro-brasileira
+- **Artesãos**: Infraestrutura e DevOps em projeto em produção
 
 ## 👾 Experiência Anterior
 
-- Trabalhei como QA Tester Freelancer (_Quality Assurance Tester_) na <a href="https://ubertesters.com/">Ubertesters</a>.<br>
-  Contribuindo em programas de crowdtesting com base em horas.
+- QA Tester Freelancer na <a href="https://ubertesters.com/">Ubertesters</a> - Crowdtesting
 
-## 🤝 Projeto Comunitário
+## 🛠️ Tech Stack
 
-- Contribuindo para o desenvolvimento do painel interno web da **Paróquia São José**.  
-  O site institucional público está planejado para uma fase futura.
+React • TypeScript • Next.js • Node.js • React Native • Tailwind CSS • PostgreSQL • Docker
