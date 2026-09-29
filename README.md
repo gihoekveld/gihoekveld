@@ -28,7 +28,6 @@
 
 - **Paróquia São José**: Site institucional e painel administrativo
 - **Zambô**: Plataforma da ONG dedicada ao movimento negro e cultura afro-brasileira
-- **Artesãos**: Infraestrutura e DevOps em projeto em produção
 
 ## 👾 Experiência Anterior
 
