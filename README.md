@@ -21,13 +21,13 @@
 </p>
 
 - Desenvolvendo como PJ desde julho de 2021.
-- **Excofy** (2022-atual): Plataforma SaaS com dashboard de vendas, checkout, app mobile, módulos de assinaturas e afiliados.
-- **AventureBox** (2021-2023): Rede social para aventureiros com feed interativo, mapa e notificações push.
+- **Excofy** (2022-atual): Plataforma SaaS para vendas online — [Visitar site ↗](https://excofy.com/)
+- **AventureBox** (2021-2023): Rede social para aventureiros — [Visitar site ↗](https://aventurebox.com/)
 
 ## 🎓 Projetos Acadêmicos (IFSP)
 
-- **Paróquia São José**: Site institucional e painel administrativo
-- **Zambô**: Plataforma da ONG dedicada ao movimento negro e cultura afro-brasileira
+- **Paróquia São José**: Site institucional e painel administrativo — [Visitar site ↗](https://paroquiasaojosecaragua.org.br/)
+- **Zambô**: Site institucional e painel administrativo — [Visitar site ↗](https://site.xn--zambpovopreto-slb.com.br/)
 
 ## 👾 Experiência Anterior
 
