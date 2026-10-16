@@ -21,13 +21,13 @@
 </p>
 
 - Desenvolvendo como PJ desde julho de 2021.
-- **Excofy** (2022-atual): Plataforma SaaS para vendas online — [Visitar site ↗](https://excofy.com/)
-- **AventureBox** (2021-2023): Rede social para aventureiros — [Visitar site ↗](https://aventurebox.com/)
+- **Excofy** (2022-atual): Plataforma SaaS para vendas online — <a href="https://excofy.com/" target="_blank">Visitar site ↗</a>
+- **AventureBox** (2021-2023): Rede social para aventureiros — <a href="https://aventurebox.com/" target="_blank">Visitar site ↗</a>
 
 ## 🎓 Projetos Acadêmicos (IFSP)
 
-- **Paróquia São José**: Site institucional e painel administrativo — [Visitar site ↗](https://paroquiasaojosecaragua.org.br/)
-- **Zambô**: Site institucional e painel administrativo — [Visitar site ↗](https://site.xn--zambpovopreto-slb.com.br/)
+- **Paróquia São José**: Site institucional e painel administrativo — <a href="https://paroquiasaojosecaragua.org.br/" target="_blank">Visitar site ↗</a>
+- **Zambô**: Site institucional e painel administrativo — <a href="https://site.xn--zambpovopreto-slb.com.br/" target="_blank">Visitar site ↗</a>
 
 ## 👾 Experiência Anterior
 
